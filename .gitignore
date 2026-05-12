@@ -1,0 +1,25 @@
+# GitHub Ignore File
+# Secrets and Environment
+.env
+.env.*
+secrets.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+build/
+dist/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
