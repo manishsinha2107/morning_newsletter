@@ -1,4 +1,5 @@
 crewai
+crewai-tools
 supabase
 python-dotenv
 langchain-community
